@@ -1,0 +1,7 @@
+site_name: 'Documentacion Web Component Coche'
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
