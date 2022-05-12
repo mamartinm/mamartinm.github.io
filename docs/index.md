@@ -16,4 +16,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 <code>docker build -t nginx-angular9 .</code><br>
 <code>docker run --rm -it --name nginx-angular9 -p 80:80 nginx-angular9</code>
 
-![Backstage Logo](images/backstage-logo-cncf.svg)
+
